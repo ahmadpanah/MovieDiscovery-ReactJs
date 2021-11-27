@@ -55,7 +55,7 @@ header {
 }
 
 .search {
-
+  color: #fff;
   background-color: transparent;
   border-radius: 50px;
   border: 2px solid rgba(26, 6, 97, 0.534);
